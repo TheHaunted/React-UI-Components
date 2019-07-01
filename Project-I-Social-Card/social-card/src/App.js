@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import HeaderContainer from './components/HeaderComponents/HeaderContainer.js';
+// import ImageThumbnail from './components/HeaderComponents/ImageThumbnail.js';
 
 const App = () => {
   return (
